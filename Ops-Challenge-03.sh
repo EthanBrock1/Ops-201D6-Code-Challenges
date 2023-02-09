@@ -13,4 +13,5 @@ show_login_history() {
 
     last -n 200 $num_logins -x $username
 }
+show_login_history
 # End
