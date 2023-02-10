@@ -1,3 +1,3 @@
 # Ops-201D6-Code-Challenges
 
-Fancyyyy
+- 03 - worked with Tyler and Dylan to write script.
