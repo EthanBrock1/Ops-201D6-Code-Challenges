@@ -1,7 +1,7 @@
-# Script: Ops 201 Class 04 Ops Challenge Solution
+# Script: Ops 201 Class 10 Ops Challenge Solution
 # Author:Ethan Brock
-# Date of latest revision:09FEB2023
-# Purpose: Create 4 directories with a new file in each
+# Date of latest revision:17FEB2023
+# Purpose: Use Powershell
 
 # Main
 
