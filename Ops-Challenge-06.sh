@@ -11,7 +11,7 @@ types=("File" "Directory")
 
 echo "Would you like to search for a File or Directory"
 read type
-    while [[ "${types[@]}" =~ "$type"  ]]; do
+    while [[ "${types[@]}" == "$type"  ]]; do
         if [[ $type == "File" ]]; then
             echo "What File would you like to search for?"
             read filename
